@@ -1,7 +1,6 @@
 <useragentswitcher>
     <!-- Firefox OS -->
     <useragent description="Firefox OS (1.1.1)" useragent="Mozilla/5.0 (Mobile; rv:18.1) Gecko/18.1 Firefox/18.1" appcodename="Mozilla" appname="Netscape" appversion="5.0 ()" platform="" vendor="" vendorsub=""/>
-    <useragent description="Firefox OS (1.2)" useragent="Mozilla/5.0 (Mobile; rv:26.0) Gecko/26.0 Firefox/26.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 ()" platform="" vendor="" vendorsub=""/>
     <useragent description="Firefox OS (1.2)" useragent="Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 ()" platform="" vendor="" vendorsub=""/>
     <useragent description="Firefox OS (ZTEOPEN)" useragent="Mozilla/5.0 (Mobile; ZTEOPEN; rv:18.1) Gecko/18.1 Firefox/18.1" appcodename="Mozilla" appname="Netscape" appversion="5.0" platform="" vendor="" vendorsub=""/>
     <useragent description="Firefox OS (Fireweb)" useragent="Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1" appcodename="Mozilla" appname="Netscape" appversion="5.0" platform="" vendor="" vendorsub=""/>
