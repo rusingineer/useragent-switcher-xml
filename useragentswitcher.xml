@@ -7,6 +7,7 @@
     <!-- Firefox for Android -->
     <separator/>
     <useragent description="Firefox 40 / Android" useragent="Mozilla/5.0 (Android; Mobile; rv:39.0) Gecko/39.0 Firefox/28.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox 41 / Android 4.4.4" useragent="Mozilla/5.0 (Android 4.4.4; Mobile; rv:39.0) Gecko/39.0 Firefox/28.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
     <!-- Opera -->
     <separator/>
     <useragent description="Opera Mobile (Presto)" useragent="Opera/9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116) Presto/2.11.355 Version/12.10" appcodename="Mozilla" appname="Opera" appversion="9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116)" platform="Android"/>
