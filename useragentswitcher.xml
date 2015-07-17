@@ -12,7 +12,7 @@
     <!-- Opera -->
     <separator/>
     <useragent description="Opera Mobile (Presto)" useragent="Opera/9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116) Presto/2.11.355 Version/12.10" appcodename="Mozilla" appname="Opera" appversion="9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116)" platform="Android"/>
-    <useragent description="Opera Mobile (Blink)" useragent="Mozilla/5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 OPR/18.0.1290.67495" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.166 OPR/20.0.1396.73172" platform="Linux armv7l" vendor="Opera Software ASA"/>
+    <useragent description="Opera Mobile (Blink)" useragent="Mozilla/5.0 (Linux; Android 4.4.4; SH-01G Build/SB080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.63 Mobile Safari/537.36 OPR/31.0.1890.93832" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Linux; Android 4.4.4; SH-01G Build/SB080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.63 Mobile Safari/537.36 OPR/31.0.1890.93832" platform="Linux armv7l" vendor="Opera Software ASA"/>
     <useragent description="Opera Mini" useragent="Opera/9.80 (Android; Opera Mini/7.5.33361/34.818; U; en) Presto/2.8.119 Version/11.1010" appcodename="Mozilla" appname="Opera" appversion="9.80 (Android; Opera Mini/7.5.33361/34.818; U; en) Presto/2.8.119 Version/11.1010" platform="Pike v7.8 release 517"/>
     <!-- Google Browsers -->
     <separator/>
