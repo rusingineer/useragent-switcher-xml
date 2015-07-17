@@ -16,7 +16,7 @@
     <useragent description="Opera Mini" useragent="Opera/9.80 (Android; Opera Mini/7.5.33361/34.818; U; en) Presto/2.8.119 Version/11.1010" appcodename="Mozilla" appname="Opera" appversion="9.80 (Android; Opera Mini/7.5.33361/34.818; U; en) Presto/2.8.119 Version/11.1010" platform="Pike v7.8 release 517"/>
     <!-- Google Browsers -->
     <separator/>
-    <useragent description="Chrome Mobile" useragent="Mozilla/5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36" platform="Linux armv7l" vendor="Google Inc."/>
+    <useragent description="Chrome Mobile" useragent="Mozilla/5.0 (Linux; Android 4.4.4; SH-01G Build/SB080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Linux; Android 4.4.4; SH-01G Build/SB080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36" platform="Linux armv7l" vendor="Google Inc."/>
     <useragent description="Android Stock" useragent="Mozilla/5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Linux; Android 4.3; HTCONE Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" platform="Linux armv7l" vendor="Google Inc."/>
     <!-- iPhone and Cheeseburger -->
     <separator/>
