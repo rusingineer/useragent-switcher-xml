@@ -3,6 +3,11 @@
 		<folder description="Legacy Browsers">
 			<useragent description="Arora 0.6.0 - (Vista)" useragent="Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.6 (Change: )" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Avant Browser 1.2" useragent="Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<folder description="Vivaldi">
+				<useragent description="Vivaldi 1.0.94 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Vivaldi/1.0.94.2 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+				<useragent description="Vivaldi 1.0.375 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.71 Safari/537.36 Vivaldi/1.0.375.3" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+				<useragent description="Vivaldi 1.0.380 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.88 Safari/537.36 Vivaldi/1.0.380.2" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			</folder>
 			<folder description="Chrome">
 				<useragent description="Chrome 4.0 (Win 7)" useragent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.0 Safari/532.5" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 				<useragent description="Chrome 5.0 (Server 2003)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -69,7 +74,10 @@
 		<useragent description="Avant Browser - MSIE 7 (Win XP)" useragent="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; Avant Browser; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="Beamrise - (Win 7) - Webkit 535.8" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.8 (KHTML, like Gecko) Beamrise/17.2.0.9 Chrome/17.0.939.0 Safari/535.8" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="iTunes 9.0.2 (Windows)" useragent="iTunes/9.0.2 (Windows; N)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-		<useragent description="Vivaldi 1.0.94 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Vivaldi/1.0.94.2 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<folder description="Vivaldi">
+			<useragent description="Vivaldi 1.3.501 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Vivaldi/1.3.501.6" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Vivaldi 1.3.519 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.86 Safari/537.36 Vivaldi/1.3.519.25" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
 		<folder description="Chrome">
 			<useragent description="Chrome 28.0 (Win 7 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1469.0 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Chrome 28.0 (Win 8 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1469.0 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -891,7 +899,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.2.1" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.2.2" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2016-07-01" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2016, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
