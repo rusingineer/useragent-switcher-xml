@@ -66,6 +66,8 @@
 				<useragent description="Opera 11.01 (id as 9.8) (Win 7)" useragent="Opera/9.80 (Windows NT 6.1; U; en) Presto/2.7.62 Version/11.01" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 				<useragent description="Opera 12.00 (id as 9.8) (Win 7)" useragent="Opera/9.80 (Windows NT 6.1; U; es-ES) Presto/2.9.181 Version/12.00" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 				<useragent description="Opera 12.14 (id as 9.8) (Win Vista)" useragent="Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+				<useragent description="Opera 12.16 (id as 9.8) (Win 7)" useragent="Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+				<useragent description="Opera 12.18 (id as 9.8) (Win 7)" useragent="Opera/9.80 (Windows NT 6.1; WOW64; Edition Next) Presto/2.12.388 Version/12.18" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			</folder>
 			<useragent description="Safari 531.21 (Win XP)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
@@ -136,7 +138,6 @@
 			<useragent description="MSIE 11.0 (Win 10)" useragent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MATBJS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Opera">
-			<useragent description="Opera 12.16 (id as 9.8) (Win 7)" useragent="Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 14.0 (Webkit 537.36) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.12 Safari/537.36 OPR/14.0.1116.4" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 15.0 (Webkit 537.36) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.29 Safari/537.36 OPR/15.0.1147.24 (Edition Next)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 18.0 (Webkit 537.36) (Win 8.1)" useragent="Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36 OPR/18.0.1284.49" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -899,7 +900,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.2.2" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.2.3" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2016-07-01" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2016, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
