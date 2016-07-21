@@ -79,6 +79,7 @@
 		<folder description="Vivaldi">
 			<useragent description="Vivaldi 1.3.501 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Vivaldi/1.3.501.6" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Vivaldi 1.3.519 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.86 Safari/537.36 Vivaldi/1.3.519.25" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Vivaldi 1.3.537.5 (Blink) (Win 7)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.48 Safari/537.36 Vivaldi/1.3.537.5" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Chrome">
 			<useragent description="Chrome 28.0 (Win 7 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1469.0 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -90,6 +91,7 @@
 			<useragent description="Chrome 45.0 (Win 10 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Chrome 45.0 (Win Vista - 32 bit)" useragent="Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Chrome 51.0 (Win 10 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 10; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Chrome 52.0 (Win 10 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 10; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Edge">
 			<useragent description="Edge (Microsoft) 12.0 (EdgeHTML) 537.36/Chrome 39) (Win 10 - 64 bit)" useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36 Edge/12.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -145,6 +147,13 @@
 			<useragent description="Opera 20.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36 OPR/20.0.1387.91" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 28.0 (Webkit 537.36) (Win 8 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36 OPR/28.0.1750.40" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 31.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 32.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 OPR/32.0.1948.69" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 33.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 34.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 OPR/34.0.2036.50" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 35.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.92" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 36.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 37.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 OPR/37.0.2178.54" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 38.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Safari">
 			<useragent description="Safari 533.17 (Server 2003/64 bit)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -203,6 +212,7 @@
 			<useragent description="Chrome 36.0 (OS X 10_9_2 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Chrome 41.0 (OS X 10_10_1) Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Chrome 51.0 (OS X 10_11_5) Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Chrome 52.0 (OS X 10_11_5) Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2739.0 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Firefox">
 			<useragent description="Firefox 20.0 (OS X 10.7 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:20.0) Gecko/20100101 Firefox/20.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -900,7 +910,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.2.3" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.2.4" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2016-07-01" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2016, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
