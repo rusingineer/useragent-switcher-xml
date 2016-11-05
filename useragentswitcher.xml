@@ -463,26 +463,33 @@
 	</folder>
 	<folder description="Mobile Devices">
 		<folder description="Browsers">
-			<useragent description="Bolt 2.8 (webkit 534.6) (Sony Ericsson K800i)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; BOLT/2.800) AppleWebKit/534.6 (KHTML, like Gecko) Version/5.0 Safari/534.6.3" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="Chrome 35.0 (Samsung SM-T537A) - Android 4.4.2 -" useragent="Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="Edge 12.0 (webkit 537.36) Windows Phone OS 10.0" useragent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; DEVICE INFO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Mobile Safari/537.36 Edge/12.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="Firefox 35.0 - Android" useragent="Mozilla/5.0 (Android; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="IEMobile 6.12 (Win CE) (with zune id)" useragent="Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; Microsoft ZuneHD 4.3)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="EMobile 7.11 (MSIE 6 - Win CE)" useragent="Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="IEMobile 7.0 (MSIE 7.0) - WinPhone OS 7.0 - Asus Galaxy" useragent="Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0) Asus;Galaxy6" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="IEMobile 7.5 (MSIE 9 - WP7.5)" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="IEMobile 9.0 - WinPhone OS 7.5" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="IEMobile 10.0 - WinPhone OS 8.0 - ARM" useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="EudoraWeb 2.1 (PalmOS)" useragent="Mozilla/1.22 (compatible; MSIE 5.01; PalmOS 3.0) EudoraWeb 2.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<folder description="Firefox">
 			<useragent description="Firefox 4.0.1 (Win CE)" useragent="Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox Fennec 1.0.a1 (Linux arm)" useragent="Mozilla/5.0 (X11; U; Linux armv61; en-US; rv:1.9.1b2pre) Gecko/20081015 Fennec/1.0a1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox Fennec 2.0.1 (Maemo arm)" useragent="Mozilla/5.0 (Maemo; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox Fennec 10.0.1 (Maemo arm)" useragent="Mozilla/5.0 (Maemo; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 35.0 - Android" useragent="Mozilla/5.0 (Android; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox 48.0 - Android 6.0.1 (Samsung SM-G935F)" useragent="Mozilla/5.0 (Android 6.0.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android 6.0.1)" platform="Linux armv81" vendor="" vendorsub=""/>
+			<useragent description="Firefox for Android (Stable 49)" useragent="Mozilla/5.0 (Android; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+			<useragent description="Firefox for Android (Beta 50)" useragent="Mozilla/5.0 (Android; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+			<useragent description="Firefox for Android (Aurora 51)" useragent="Mozilla/5.0 (Android; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+			<useragent description="Firefox for Android (Nightly 52)" useragent="Mozilla/5.0 (Android; Mobile; rv:52.0) Gecko/52.0 Firefox/52.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="IEMobile">	
+			<useragent description="IEMobile 6.12 (Win CE) (with zune id)" useragent="Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; Microsoft ZuneHD 4.3)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="IEMobile 7.11 (MSIE 6 - Win CE)" useragent="Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="IEMobile 7.0 (MSIE 7.0) - WinPhone OS 7.0 - Asus Galaxy" useragent="Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0) Asus;Galaxy6" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="IEMobile 7.5 (MSIE 9 - WP7.5)" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="IEMobile 9.0 - WinPhone OS 7.5" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="IEMobile 10.0 - WinPhone OS 8.0 - ARM" useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Edge 12.0 (webkit 537.36) Windows Phone OS 10.0" useragent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; DEVICE INFO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Mobile Safari/537.36 Edge/12.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="Minimo">
 			<useragent description="Minimo 0.016 (Win CE)" useragent="Mozilla/5.0 (Windows; U; Windows CE 5.1; rv:1.8.1a3) Gecko/20060610 Minimo/0.016" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Minimo 0.020 (Linux)" useragent="Mozilla/5.0 (X11; U; Linux armv6l; rv 1.8.1.5pre) Gecko/20070619 Minimo/0.020" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Minimo 0.025 (Linux arm)" useragent="Mozilla/5.0 (X11; U; Linux arm7tdmi; rv:1.8.1.11) Gecko/20071130 Minimo/0.025" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="NetFront 3.0 (PalmOS)" useragent="Mozilla/4.0 (PDA; PalmOS/sony/model prmr/Revision:1.1.54 (en)) NetFront/3.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="Opera">
 			<useragent description="Opera 9.51 beta (Windows)" useragent="Opera/9.51 Beta (Microsoft Windows; PPC; Opera Mobi/1718; U; en)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 9.60 Mini 4.1 beta (Windows)" useragent="Opera/9.60 (J2ME/MIDP; Opera Mini/4.1.11320/608; U; en) Presto/2.2.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 9.60 Mini 4.2 J2ME/MIDP" useragent="Opera/9.60 (J2ME/MIDP; Opera Mini/4.2.14320/554; U; cs) Presto/2.2.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -490,19 +497,28 @@
 			<useragent description="Opera 10.61 Mini 5.1 (J2ME/MIDP)" useragent="Opera/10.61 (J2ME/MIDP; Opera Mini/5.1.21219/19.999; en-US; rv:1.9.3a5) WebKit/534.5 Presto/2.6.30" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 11.1010 Mini 7.5 (Android)" useragent="Opera/9.80 (Android; Opera Mini/7.5.33361/31.1543; U; en) Presto/2.8.119 Version/11.1010" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 30.0 (Android)" useragent="Mozilla/5.0 (Linux; Android 5.1.1; Nexus 7 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.78 Safari/537.36 OPR/30.0.1856.93524" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="Polaris 6.01" useragent="POLARIS/6.01 (BREW 3.1.5; U; en-us; LG; LX265; POLARIS/6.01/WAP) MMP/2.0 profile/MIDP-2.1 Configuration/CLDC-1.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="Puffin">
 			<useragent description="Puffin 2.9174AP - Android - (AP=Android Phone)" useragent="Mozilla/5.0 (X11; U; Linux x86_64; en-gb) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/2.9174AP" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Puffin 2.9174AT - Android - (AT=Android Tablet)" useragent="Mozilla/5.0 (X11; U; Linux x86_64; en-us) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/2.9174AT" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Puffin 3.9174IP - iOS 6_1 - (IP=iphone)" useragent="Mozilla/5.0 (iPod; U; CPU iPhone OS 6_1 like Mac OS X; en-HK) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/3.9174IP Mobile" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Puffin 3.9174IT - (says Linux) - (IT=iOS tablet)" useragent="Mozilla/5.0 (X11; U; Linux x86_64; en-AU) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/3.9174IT" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Puffin 2.0.5603M - Linux - (M=mobile)" useragent="Mozilla/5.0 (X11; U; Linux i686; en-gb) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/2.0.5603M" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Puffin 4.5.0IT - (says Linux) - (IT=iOS tablet)" useragent="Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.114 Safari/537.36 Puffin/4.5.0IT" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="Safari">
 			<useragent description="Mobile Safari 530.17 (Android)" useragent="Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Safari 533 - iPad - iOS 4_2_1)" useragent="Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Safari 533.17 - iPhone - iOS 4_2_1" useragent="Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; da-dk) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Safari 6 (8536.25) - Apple iPad 2 - iOS 6_0" useragent="Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="UCBrowser 2.9.0 - Trident/MSIE 9.0 - WindowsPhone 7" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7) UCBrowser/2.9.0.263" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="UCBrowser 8.6.1 - Webkit 533 - Android 2.3.3" useragent="Mozilla/5.0 (Linux; U; Android 2.3.3; en-us ; LS670 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.6.1.262/145/355" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<useragent description="Bolt 2.8 (webkit 534.6) (Sony Ericsson K800i)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; BOLT/2.800) AppleWebKit/534.6 (KHTML, like Gecko) Version/5.0 Safari/534.6.3" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="Chrome 35.0 (Samsung SM-T537A) - Android 4.4.2 -" useragent="Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="EudoraWeb 2.1 (PalmOS)" useragent="Mozilla/1.22 (compatible; MSIE 5.01; PalmOS 3.0) EudoraWeb 2.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="NetFront 3.0 (PalmOS)" useragent="Mozilla/4.0 (PDA; PalmOS/sony/model prmr/Revision:1.1.54 (en)) NetFront/3.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="Polaris 6.01" useragent="POLARIS/6.01 (BREW 3.1.5; U; en-us; LG; LX265; POLARIS/6.01/WAP) MMP/2.0 profile/MIDP-2.1 Configuration/CLDC-1.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="UCBrowser 2.9.0 - Trident/MSIE 9.0 - WindowsPhone 7" useragent="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7) UCBrowser/2.9.0.263" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		<useragent description="UCBrowser 8.6.1 - Webkit 533 - Android 2.3.3" useragent="Mozilla/5.0 (Linux; U; Android 2.3.3; en-us ; LS670 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.6.1.262/145/355" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Devices">
 			<folder description="Tablets">
@@ -948,7 +964,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.3.1" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.3.2" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2016-10-05" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2016, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
