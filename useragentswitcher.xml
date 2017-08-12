@@ -159,6 +159,15 @@
 			<useragent description="Opera 36.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 37.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 OPR/37.0.2178.54" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 38.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 39.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 40.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 41.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 42.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 43.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 44.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 45.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 46.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 47.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36 OPR/47.0.2631.39" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Safari">
 			<useragent description="Safari 533.17 (Server 2003/64 bit)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -964,7 +973,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.3.2" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.3.2.1" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2016-10-05" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2016, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
