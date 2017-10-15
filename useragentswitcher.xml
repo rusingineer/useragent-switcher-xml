@@ -168,6 +168,7 @@
 			<useragent description="Opera 45.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36 OPR/45.0.2552.898" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 46.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.61 Safari/537.36 OPR/46.0.2597.57" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Opera 47.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36 OPR/47.0.2631.80" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Opera 47.0 (Webkit 537.36) (Win 7 64 bit)" useragent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.35" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<folder description="Safari">
 			<useragent description="Safari 533.17 (Server 2003/64 bit)" useragent="Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
