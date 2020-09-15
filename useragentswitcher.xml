@@ -313,7 +313,22 @@
 			<useragent description="Firefox 40.0 (OS X 10.10 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox 47.0 (OS X 10.9 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:47.0) Gecko/20100101 Firefox/47.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox 49.0 (OS X 10.12 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:49.0) Gecko/20100101 Firefox/49.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
-			<useragent description="Firefox 55.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:55.0) Gecko/20100101 Firefox/55.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 55.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:55.0) Gecko/20100101 Firefox/55.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>		
+			<useragent description="Firefox 57.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/20100101 Firefox/57.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 59.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 61.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 63.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:63.0) Gecko/20100101 Firefox/63.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 64.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:64.0) Gecko/20100101 Firefox/64.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 65.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:65.0) Gecko/20100101 Firefox/65.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 66.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 67.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:67.0) Gecko/20100101 Firefox/67.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 68.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:68.0) Gecko/20100101 Firefox/68.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 69.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:69.0) Gecko/20100101 Firefox/69.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 71.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:71.0) Gecko/20100101 Firefox/71.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 72.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:72.0) Gecko/20100101 Firefox/72.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 73.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:73.0) Gecko/20100101 Firefox/73.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 74.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:74.0) Gecko/20100101 Firefox/74.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="Firefox 75.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:75.0) Gecko/20100101 Firefox/75.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="SeaMonkey 2.7.1 (OS X 10.5 - Mozilla)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<useragent description="iTunes 4.2 (OS X 10.2 PPC)" useragent="iTunes/4.2 (Macintosh; U; PPC Mac OS X 10.2)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -1118,7 +1133,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.4.4" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.4.5" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2017-08-25" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2017, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
