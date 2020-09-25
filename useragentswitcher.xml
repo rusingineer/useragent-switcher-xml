@@ -329,7 +329,12 @@
 			<useragent description="Firefox 73.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:73.0) Gecko/20100101 Firefox/73.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox 74.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:74.0) Gecko/20100101 Firefox/74.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 			<useragent description="Firefox 75.0 (OS X 10.13 Intel)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:75.0) Gecko/20100101 Firefox/75.0" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+		</folder>
+		<folder description="SeaMonkey">
 			<useragent description="SeaMonkey 2.7.1 (OS X 10.5 - Mozilla)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="SeaMonkey 2.12.1 (OS X 10.6 - Mozilla)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:15.0) Gecko/20120909 SeaMonkey/2.12.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="SeaMonkey 2.16.2 (OS X 10.7 - Mozilla)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:19.0) Gecko/20100101 Firefox/19.0 SeaMonkey/2.16.2" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+			<useragent description="SeaMonkey 2.33.1 (OS X 10.7 - Mozilla)" useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:36.0) Gecko/20100101 Firefox/36.0 SeaMonkey/2.33.1" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		</folder>
 		<useragent description="iTunes 4.2 (OS X 10.2 PPC)" useragent="iTunes/4.2 (Macintosh; U; PPC Mac OS X 10.2)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="iTunes 9.0.3 (OS X 10_6_2)" useragent="iTunes/9.0.3 (Macintosh; U; Intel Mac OS X 10_6_2; en-ca)" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
@@ -1133,7 +1138,7 @@
 		</folder>
 	</folder>
 	<folder description="UA List :: About">
-		<useragent description="User Agent List :: version: 2.6.4.5" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
+		<useragent description="User Agent List :: version: 2.6.4.4" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Last Updated: 2017-08-25" useragent="" appcodename="" appname="" appversion="" platform="" vendor="http://techpatterns.com/forums/about304.html" vendorsub=""/>
 		<useragent description="Copyright (c) 2017, Harald Hope" useragent="" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
 		<useragent description="License: BSD 2 Clause" useragent="" appcodename="" appname="" appversion="" platform="" vendor="Copyright (c) 2016, Harald Hope
